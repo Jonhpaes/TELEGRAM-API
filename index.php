@@ -13,7 +13,8 @@
         }
 
         body {
-            background-color: #111;
+            background-image: linear-gradient(to bottom , #13070C, #252627, #565857);
+            background-attachment: fixed;
         }
 
         .box {
